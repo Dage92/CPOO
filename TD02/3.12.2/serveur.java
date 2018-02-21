@@ -7,7 +7,7 @@ public class serveur
     }
     public boolean connecter (Client client)
     {
-        if (!(this.clients containts (client))
+        if (!this.client.contains(client))
         {
             this.clients.add(client);
             System.out.println(client.nom+"est connecter au serveur");
@@ -16,13 +16,13 @@ public class serveur
     }
     public void diffuser (String message)
     {
-        for (client c:clients)
+        for (client c:client)
         {
             c.serveur(message);
         }
     }
 }
-public Main{
+/*public Main{
     public static void main(String[]args)
     {
         client c1 = new client("Nathalie");
@@ -34,4 +34,4 @@ public Main{
         c3...
         c3.envoyer ("bonjour");
     }
-}
+}*/
