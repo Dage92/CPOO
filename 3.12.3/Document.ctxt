@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Document
+comment1.params=titre\ auteur\ YOP
+comment1.target=Document(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ titre()
+comment3.params=
+comment3.target=java.lang.String\ auteur()
+comment4.params=
+comment4.target=int\ YOP()
+comment5.params=
+comment5.target=java.lang.String\ description()
+numComments=6
