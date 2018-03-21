@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Operation
+comment1.params=a\ b
+comment1.target=double\ eval(double,\ double)
+comment2.params=a\ b
+comment2.target=double\ eval(double,\ double)
+comment3.params=a\ b
+comment3.target=double\ eval(double,\ double)
+comment4.params=a\ b
+comment4.target=double\ eval(double,\ double)
+comment5.params=Symbole
+comment5.target=Operation(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getSymbole()
+comment7.params=a\ b
+comment7.target=double\ eval(double,\ double)
+numComments=8
