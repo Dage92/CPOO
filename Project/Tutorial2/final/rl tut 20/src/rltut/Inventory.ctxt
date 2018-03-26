@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Inventory
+comment1.params=
+comment1.target=Item[]\ getItems()
+comment2.params=i
+comment2.target=Item\ get(int)
+comment3.params=max
+comment3.target=Inventory(int)
+comment4.params=item
+comment4.target=void\ add(Item)
+comment5.params=item
+comment5.target=void\ remove(Item)
+comment6.params=
+comment6.target=boolean\ isFull()
+comment7.params=item
+comment7.target=boolean\ contains(Item)
+numComments=8

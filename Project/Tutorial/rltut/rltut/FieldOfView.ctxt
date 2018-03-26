@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FieldOfView
+comment1.params=x\ y\ z
+comment1.target=boolean\ isVisible(int,\ int,\ int)
+comment2.params=x\ y\ z
+comment2.target=Tile\ tile(int,\ int,\ int)
+comment3.params=world
+comment3.target=FieldOfView(World)
+comment4.params=wx\ wy\ wz\ r
+comment4.target=void\ update(int,\ int,\ int,\ int)
+numComments=5

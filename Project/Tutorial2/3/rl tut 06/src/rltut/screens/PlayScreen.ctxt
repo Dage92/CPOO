@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=PlayScreen
+comment1.params=
+comment1.target=PlayScreen()
+comment2.params=creatureFactory
+comment2.target=void\ createCreatures(rltut.CreatureFactory)
+comment3.params=
+comment3.target=void\ createWorld()
+comment4.params=
+comment4.target=int\ getScrollX()
+comment5.params=
+comment5.target=int\ getScrollY()
+comment6.params=terminal
+comment6.target=void\ displayOutput(asciiPanel.AsciiPanel)
+comment7.params=terminal\ messages
+comment7.target=void\ displayMessages(asciiPanel.AsciiPanel,\ java.util.List)
+comment8.params=terminal\ left\ top
+comment8.target=void\ displayTiles(asciiPanel.AsciiPanel,\ int,\ int)
+comment9.params=key
+comment9.target=Screen\ respondToUserInput(java.awt.event.KeyEvent)
+numComments=10

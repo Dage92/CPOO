@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CastSpellScreen
+comment1.params=player\ caption\ sx\ sy\ spell
+comment1.target=CastSpellScreen(rltut.Creature,\ java.lang.String,\ int,\ int,\ rltut.Spell)
+comment2.params=x\ y\ screenX\ screenY
+comment2.target=void\ selectWorldCoordinate(int,\ int,\ int,\ int)
+numComments=3

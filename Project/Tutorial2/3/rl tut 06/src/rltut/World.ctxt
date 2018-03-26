@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=World
+comment1.params=
+comment1.target=int\ width()
+comment10.params=
+comment10.target=void\ update()
+comment11.params=other
+comment11.target=void\ remove(Creature)
+comment2.params=
+comment2.target=int\ height()
+comment3.params=tiles
+comment3.target=World(Tile[][])
+comment4.params=x\ y
+comment4.target=Creature\ creature(int,\ int)
+comment5.params=x\ y
+comment5.target=Tile\ tile(int,\ int)
+comment6.params=x\ y
+comment6.target=char\ glyph(int,\ int)
+comment7.params=x\ y
+comment7.target=java.awt.Color\ color(int,\ int)
+comment8.params=x\ y
+comment8.target=void\ dig(int,\ int)
+comment9.params=creature
+comment9.target=void\ addAtEmptyLocation(Creature)
+numComments=12

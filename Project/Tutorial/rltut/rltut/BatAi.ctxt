@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BatAi
+comment1.params=creature
+comment1.target=BatAi(Creature)
+comment2.params=
+comment2.target=void\ onUpdate()
+numComments=3

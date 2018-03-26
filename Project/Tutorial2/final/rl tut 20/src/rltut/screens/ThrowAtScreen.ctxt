@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ThrowAtScreen
+comment1.params=player\ sx\ sy\ item
+comment1.target=ThrowAtScreen(rltut.Creature,\ int,\ int,\ rltut.Item)
+comment2.params=x\ y
+comment2.target=boolean\ isAcceptable(int,\ int)
+comment3.params=x\ y\ screenX\ screenY
+comment3.target=void\ selectWorldCoordinate(int,\ int,\ int,\ int)
+numComments=4

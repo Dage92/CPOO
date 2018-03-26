@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ReadSpellScreen
+comment1.params=player\ sx\ sy\ item
+comment1.target=ReadSpellScreen(rltut.Creature,\ int,\ int,\ rltut.Item)
+comment2.params=terminal
+comment2.target=void\ displayOutput(asciiPanel.AsciiPanel)
+comment3.params=
+comment3.target=java.util.ArrayList\ getList()
+comment4.params=key
+comment4.target=Screen\ respondToUserInput(java.awt.event.KeyEvent)
+comment5.params=spell
+comment5.target=Screen\ use(rltut.Spell)
+numComments=6

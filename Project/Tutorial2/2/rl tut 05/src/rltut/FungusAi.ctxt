@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FungusAi
+comment1.params=creature\ factory
+comment1.target=FungusAi(Creature,\ CreatureFactory)
+comment2.params=
+comment2.target=void\ onUpdate()
+comment3.params=
+comment3.target=void\ spread()
+numComments=4

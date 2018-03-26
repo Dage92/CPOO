@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CreatureAi
+comment1.params=creature
+comment1.target=CreatureAi(Creature)
+comment2.params=x\ y\ z\ tile
+comment2.target=void\ onEnter(int,\ int,\ int,\ Tile)
+comment3.params=
+comment3.target=void\ onUpdate()
+comment4.params=message
+comment4.target=void\ onNotify(java.lang.String)
+numComments=5

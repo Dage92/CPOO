@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LevelUpOption
+comment1.params=
+comment1.target=java.lang.String\ name()
+comment2.params=name
+comment2.target=LevelUpOption(java.lang.String)
+comment3.params=creature
+comment3.target=void\ invoke(Creature)
+numComments=4

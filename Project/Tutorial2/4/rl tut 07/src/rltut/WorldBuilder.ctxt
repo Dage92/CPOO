@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=WorldBuilder
+comment1.params=width\ height\ depth
+comment1.target=WorldBuilder(int,\ int,\ int)
+comment10.params=z\ r1\ r2
+comment10.target=void\ connectRegionsDown(int,\ int,\ int)
+comment11.params=z\ r1\ r2
+comment11.target=java.util.List\ findRegionOverlaps(int,\ int,\ int)
+comment12.params=
+comment12.target=WorldBuilder\ makeCaves()
+comment2.params=
+comment2.target=World\ build()
+comment3.params=
+comment3.target=WorldBuilder\ randomizeTiles()
+comment4.params=times
+comment4.target=WorldBuilder\ smooth(int)
+comment5.params=
+comment5.target=WorldBuilder\ createRegions()
+comment6.params=region\ z
+comment6.target=void\ removeRegion(int,\ int)
+comment7.params=region\ x\ y\ z
+comment7.target=int\ fillRegion(int,\ int,\ int,\ int)
+comment8.params=
+comment8.target=WorldBuilder\ connectRegions()
+comment9.params=z
+comment9.target=void\ connectRegionsDown(int)
+numComments=13

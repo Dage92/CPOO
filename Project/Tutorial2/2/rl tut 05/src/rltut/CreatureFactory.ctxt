@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CreatureFactory
+comment1.params=world
+comment1.target=CreatureFactory(World)
+comment2.params=
+comment2.target=Creature\ newPlayer()
+comment3.params=
+comment3.target=Creature\ newFungus()
+numComments=4

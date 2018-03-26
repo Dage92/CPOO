@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Spell
+comment1.params=
+comment1.target=java.lang.String\ name()
+comment2.params=
+comment2.target=int\ manaCost()
+comment3.params=
+comment3.target=Effect\ effect()
+comment4.params=
+comment4.target=boolean\ requiresTarget()
+comment5.params=name\ manaCost\ effect
+comment5.target=Spell(java.lang.String,\ int,\ Effect)
+numComments=6

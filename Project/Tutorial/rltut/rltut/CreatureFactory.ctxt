@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CreatureFactory
+comment1.params=world
+comment1.target=CreatureFactory(World)
+comment2.params=messages\ fov
+comment2.target=Creature\ newPlayer(java.util.List,\ FieldOfView)
+comment3.params=depth
+comment3.target=Creature\ newFungus(int)
+comment4.params=depth
+comment4.target=Creature\ newBat(int)
+numComments=5

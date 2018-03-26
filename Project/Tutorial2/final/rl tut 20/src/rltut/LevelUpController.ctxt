@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=LevelUpController
+comment1.params=creature
+comment1.target=void\ invoke(Creature)
+comment10.params=name
+comment10.target=LevelUpOption\ getLevelUpOption(java.lang.String)
+comment2.params=creature
+comment2.target=void\ invoke(Creature)
+comment3.params=creature
+comment3.target=void\ invoke(Creature)
+comment4.params=creature
+comment4.target=void\ invoke(Creature)
+comment5.params=creature
+comment5.target=void\ invoke(Creature)
+comment6.params=creature
+comment6.target=void\ invoke(Creature)
+comment7.params=creature
+comment7.target=void\ invoke(Creature)
+comment8.params=creature
+comment8.target=void\ autoLevelUp(Creature)
+comment9.params=
+comment9.target=java.util.List\ getLevelUpOptions()
+numComments=11

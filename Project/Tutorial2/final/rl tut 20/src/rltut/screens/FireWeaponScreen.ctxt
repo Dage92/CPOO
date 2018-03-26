@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FireWeaponScreen
+comment1.params=player\ sx\ sy
+comment1.target=FireWeaponScreen(rltut.Creature,\ int,\ int)
+comment2.params=x\ y
+comment2.target=boolean\ isAcceptable(int,\ int)
+comment3.params=x\ y\ screenX\ screenY
+comment3.target=void\ selectWorldCoordinate(int,\ int,\ int,\ int)
+numComments=4

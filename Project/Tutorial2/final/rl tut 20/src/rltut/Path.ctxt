@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Path
+comment1.params=
+comment1.target=java.util.List\ points()
+comment2.params=creature\ x\ y
+comment2.target=Path(Creature,\ int,\ int)
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ZombieAi
+comment1.params=creature\ player
+comment1.target=ZombieAi(Creature,\ Creature)
+comment2.params=
+comment2.target=void\ onUpdate()
+numComments=3

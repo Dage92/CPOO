@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PlayerAi
+comment1.params=creature
+comment1.target=PlayerAi(Creature)
+comment2.params=x\ y\ tile
+comment2.target=void\ onEnter(int,\ int,\ Tile)
+numComments=3

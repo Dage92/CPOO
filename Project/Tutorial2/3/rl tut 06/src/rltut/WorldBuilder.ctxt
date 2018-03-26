@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=WorldBuilder
+comment1.params=width\ height
+comment1.target=WorldBuilder(int,\ int)
+comment2.params=
+comment2.target=World\ build()
+comment3.params=
+comment3.target=WorldBuilder\ randomizeTiles()
+comment4.params=times
+comment4.target=WorldBuilder\ smooth(int)
+comment5.params=
+comment5.target=WorldBuilder\ makeCaves()
+numComments=6

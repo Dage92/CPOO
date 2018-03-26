@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LookScreen
+comment1.params=player\ caption\ sx\ sy
+comment1.target=LookScreen(rltut.Creature,\ java.lang.String,\ int,\ int)
+comment2.params=x\ y\ screenX\ screenY
+comment2.target=void\ enterWorldCoordinate(int,\ int,\ int,\ int)
+numComments=3

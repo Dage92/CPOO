@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Line
+comment1.params=
+comment1.target=java.util.List\ getPoints()
+comment2.params=x0\ y0\ x1\ y1
+comment2.target=Line(int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=java.util.Iterator\ iterator()
+numComments=4
